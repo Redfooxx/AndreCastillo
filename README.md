@@ -1,2 +1,4 @@
-Equipped with a Master of Science (M.S.) in Information Technology, Security+, and other certifications. 
+Hi, I am Andre.
+Master of Science (M.S.) in Information Technology.
+Welcome to my porfolio
 

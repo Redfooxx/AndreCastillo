@@ -1,6 +1,14 @@
-Hi, I am Andre.
-Master of Science (M.S.) in Information Technology.
-Welcome to my porfolio
+<p align="center">Hi, I am Andre.</p>
+
+<p align="center">
+  <span style="color: #0000ff; text-align: center;">
+    <strong>Master of Science (M.S.) in Information Technology</strong><br />
+    <em>(Concentration: Cybersecurity and Forensics)</em>
+  </span>
+</p>
+
+<p align="center">Welcome to my portfolio</p>
+
 
 <h2>Certifications</h2>
 
@@ -9,4 +17,5 @@ Welcome to my porfolio
 - [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/803d8fb2-91f8-46c0-8a78-3960f7432508/linked_in_profile)
 
 <h2>Cyber Security Competitions</h2>
+
 

@@ -7,7 +7,7 @@
   </span>
 </p>
 
-<p align="center">Welcome to my portfolio</p>
+<p align="center">Welcome to My Portfolio</p>
 
 
 <h2>Certifications</h2>

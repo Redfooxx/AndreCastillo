@@ -19,5 +19,5 @@
 <h2>Cyber Security Competitions</h2>
 
 - [National Cyber League](https://github.com/Redfooxx/National-Cyber-League)
-- [Hack The Box: University CTF 2024](https://github.com/Redfooxx/National-Cyber-League)
+- [Hack The Box: University CTF 2024](https://github.com/Redfooxx/Hack-the-Box)
 - [NCyTE Center: Cyber Career Challenge](https://github.com/Redfooxx/National-Cyber-League)
